@@ -5,10 +5,6 @@ import csv
 import numpy as np
 import pandas as pd
 
-#filename = os.path.abspath('.')
-#print(filename)
-#print(os.path.abspath("__file__"))
-#print(os.path.abspath(filename))
 #参数设置
 #设置转为为Excel的文件名
 set_excel_file = "taxreport.xlsx"
